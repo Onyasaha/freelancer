@@ -1,8 +1,14 @@
 
 .title-text{
-    font-size: 4rem;
+    font-size: 320%;
     z-index: 1;
     position: relative;
+}
+.overlay{
+    height: 48rem;
+}
+.overlay img{
+    height: 48rem;
 }
 .overlay::after{
     content: '';
@@ -14,7 +20,7 @@
     background: rgb(0, 0, 0, .5);
 }
 .sub-text{
-    font-size: 2rem;
+    font-size: 120%;
     z-index: 1;
     position: relative;
 }
