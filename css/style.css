@@ -22,3 +22,12 @@
     z-index: 1;
     position: relative;
 }
+.menu-logo{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+h1{
+    font-family: 'Chelsea Market', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
